@@ -34,4 +34,4 @@ Parthiv Patel
 
 ## Output Screenshot
 
-![PC Health Checker Output](health-check.png)
+![PC Health Checker Output](health-check.PNG)
