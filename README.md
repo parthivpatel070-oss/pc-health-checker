@@ -31,3 +31,7 @@ Open PowerShell and run:
 
 ## Author
 Parthiv Patel
+
+## Output Screenshot
+
+![PC Health Checker Output](health-check.png)
